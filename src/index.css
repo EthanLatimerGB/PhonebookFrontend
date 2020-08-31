@@ -1,0 +1,10 @@
+.error{
+  color: rgb(173, 1, 1);
+  padding: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+
